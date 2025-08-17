@@ -11,7 +11,6 @@ This repository contains two Python scripts as part of Assignment 1.
    Division
    and prints the output as in the given example
  
-  - 
 # Task 2: Create a Personalized Greeting
 File: `task2.py`
    This program:
